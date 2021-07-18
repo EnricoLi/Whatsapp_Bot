@@ -1,0 +1,1 @@
+Bot de automação de mensagens para whatsapp usando Python e o framework Selenium.
